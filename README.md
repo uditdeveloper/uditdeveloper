@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Udit 👋
 
-<!--
-**uditdeveloper/uditdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | WordPress | Frontend Development | AI & Automation
 
-Here are some ideas to get you started:
+I build modern, responsive websites and practical web solutions for businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Working with HTML, CSS, JavaScript and WordPress
+- 🌐 Building responsive websites and landing pages
+- 🤖 Exploring AI-powered website development and workflow automation
+- 🔗 Learning to connect web forms with Make.com and Google Sheets
+- 🚀 Continuously building projects to improve my development skills
+
+### Tech Stack
+
+HTML · CSS · JavaScript · WordPress · Git · GitHub · Make.com
+
+### Featured Projects
+
+**SparkNest Cleaning Co.**  
+A modern cleaning service website built with HTML, CSS and JavaScript.
+
+🔗 [Live Demo](https://uditdeveloper.github.io/sparknest-cleaning/)
+
+### Connect With Me
+
+Open to web development projects, freelance opportunities and collaborations.
